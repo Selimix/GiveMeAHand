@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to GiveMeAHand
 
-You can use the [editor on GitHub](https://github.com/Selimix/GiveMeAHand/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Français en dessous**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is an open source project (upon Apache Licence) in order to build a next generation rescue telecomunication systems that can be easily used by anyone. The project consists in deeply improve communication between victims and rescue operation center to give a quicker, better and more efficient response.
+The system is open to single occurence but is thinked to be a part a natural disaster response.
+_The project is endorse by XXXXX.team, please donate, or contribute to ours [projects](https://my.projects.team)_
 
-### Markdown
+## Bienvenue a GiveMeAHand
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ceci est un projet open source sous licence Apache qui a pour but de developper un système d'appel d'urgence nouvelle generation qui pourrait etre utilisé par n'importe qui. Le projet consiste a mérliorer de manière drastique la qualité du flux d'information entre les victimes et le centre d'opération des services de secours afin d'apporter une meilleure réponse plus efficace.
+Le projet est ouveret sur les interventions simple mais est aussi pensé pour être utilisé comme solution de communication pendant les catastrophe naturelles.
+_Le projet est soutenu par XXXXX.team, n'hésiter pas à donner et ou contribuer a nos[projets](https://my.projects.team_
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Selimix/GiveMeAHand/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
